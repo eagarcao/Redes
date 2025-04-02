@@ -1,0 +1,8 @@
+Integrantes:
+-Emiliano Garcia - 202273622-4
+-Alejandro Sanchez - 202273605-4
+
+Para poder correr el codigo de buena forma, primero hay que ejecturar el archivo con nombre "ClienteTCP.py" ya que este hace la conexión TCP con el servidor
+y al finalizar le mande el TAG y Puerto necesario para la conexión UDP (no es necesario correr "ClienteUDP.py", ya que "ClienteTCP.py" lo corre al finalizar).
+
+Al terminar la ejecución de "ClienteTCP.py" y "ClienteUDP.py" se puede ejecutar el archivo "ClienteTCP-HTTP.py" para asi hacer los GET de cada pokemon.
